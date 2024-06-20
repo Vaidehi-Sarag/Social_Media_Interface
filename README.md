@@ -8,8 +8,8 @@ IT IS A CONSOLE BASED PROJECT.
 ## Features
 
 - **User Profile Management:** Create and manage user profiles with personal information.
-- **Friendship Management:** Add and remove friends, accept or decline friend requests.
-- **Posts and Comments:** Create posts and comment on others' posts.
+- **Friendship Management:** Add and remove friends.
+- **Thoughts** Share your thoughts.
 - **Feed:** View a feed of updates from friends.
 
 ## Prerequisites
